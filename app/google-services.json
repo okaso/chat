@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780830236750",
+    "firebase_url": "https://login-eb599.firebaseio.com",
+    "project_id": "login-eb599",
+    "storage_bucket": "login-eb599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780830236750:android:874ac30878726923",
+        "android_client_info": {
+          "package_name": "app.ice.logingmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780830236750-cpp38n49h61iu5kpsmrbhja9rm7vkd50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.ice.logingmail",
+            "certificate_hash": "e01bf2eb177a391a3c1abf24ef5e49d868fa6cc7"
+          }
+        },
+        {
+          "client_id": "780830236750-2mrjdj97fk55ogtr4a6ubo5vldncrgd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9itcHZGdnLXhvGGSZ9BTtSbiYXSFqHdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780830236750-2mrjdj97fk55ogtr4a6ubo5vldncrgd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
